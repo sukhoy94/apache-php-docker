@@ -1,5 +1,5 @@
 # Why? 
-Imagine you want to experiment with something, learn some things -- and I always was exhausted with all this xampp, lamp configurations and so on. I want to run one command and have my environment working. That's why I decided to create such 'template' and put it to repository.
+I always was exhausted with all this xampp, lamp configurations and so on. I want to run one command and have my environment working. That's why I decided to create such 'template' and put it to repository.
 
 # apache-php-docker
 Basic stuff to start developing php with apache.
